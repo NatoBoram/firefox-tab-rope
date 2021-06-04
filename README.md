@@ -2,6 +2,11 @@
 
 Transforms Firefox' tab rope into a proper tab bar.
 
+![Alpenglow](screenshots/Alpenglow.png)
+![Dark](screenshots/Dark.png)
+![Firefox B](screenshots/Firefox%20B.png)
+![Light](screenshots/Light.png)
+
 ## Changes
 
 I upgraded the hover highlight effect from 11% to 12% and applied to it the non-hover version but at 4%.
