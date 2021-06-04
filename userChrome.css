@@ -1,0 +1,7 @@
+.tabbrowser-tab:hover>.tab-stack>.tab-background:not([selected=true], [multiselected]) {
+	background-color: color-mix(in srgb, currentColor 12%, transparent);
+}
+
+.tabbrowser-tab>.tab-stack>.tab-background:not([selected=true], [multiselected]) {
+	background-color: color-mix(in srgb, currentColor 4%, transparent);
+}
