@@ -13,7 +13,7 @@ I upgraded the hover highlight effect from `11%` to `12%` and applied to it the 
 
 Darker than `4%`, you don't really see it and it can be a bit hard on the eyes. But at `4%`, the `11%` from the hover is a bit too close, so I bumped it.
 
-While it's specifically made in dark mode and optimized for my own use case, *it works with all themes*. You'll probably want to bump that `4%` to `5%` if you're on light mode. Edit the two percentages to fit your taste.
+While it's specifically made in dark mode and optimized for my own use case, *it works with all themes*. You'll probably want to bump that `4%` to `5%` if you have a busy theme. Edit the two percentages to fit your taste.
 
 ## Installation
 
