@@ -18,7 +18,7 @@ While it's specifically made in dark mode and optimized for my own use case, *it
 ## Installation
 
 1. In `about:config`, enable `toolkit.legacyUserProfileCustomizations.stylesheets`
-2. `about:support` / *Profile Folder* / **Open Folder**
+2. `about:support` / *Profile Directory* / **Open Directory**
 3. Create folder `chrome` containing the file `userChrome.css`
 4. Paste the code below in `userChrome.css`
 5. Restart Firefox
