@@ -21,7 +21,7 @@ While it's specifically made in dark mode and optimized for my own use case, *it
 2. `about:support` / *Profile Directory* / **Open Directory**
 3. Create folder `chrome` containing the file `userChrome.css`
 4. Paste the code below in `userChrome.css`
-5. Restart Firefox
+5. In `about:restartrequired`, click on **Restart Firefox**
 
 ```css
 .tabbrowser-tab:hover>.tab-stack>.tab-background:not([selected=true], [multiselected]) {
